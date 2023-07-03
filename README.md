@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile
 
-## I'm Jonas Peres (Front End Developer / Front End Engineer)
+## I'm Jonas Peres (Software Engineer)
 
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
