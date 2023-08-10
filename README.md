@@ -24,7 +24,7 @@
 
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-![Estatísticas do GitHub do JonasPeres](https://github-readme-stats-jonasperes.vercel.app/api?username=JonasPeres&show=reviews&hide=stars,issues&count_private=true&show_icons=true&theme=dracula)
+![Estatísticas do GitHub do JonasPeres](https://github-readme-stats-jonasperes.vercel.app/api?username=JonasPeres&show=reviews&hide=stars,issues&count_private=true&show_icons=true&theme=dracula&line_height=29)
 ![Top Langs](https://github-readme-stats-jonasperes.vercel.app/api/top-langs/?username=JonasPeres&layout=compact&langs_count=10&theme=dracula)
 
 ##
