@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Jonas Peres</h1>
-<h3>A passionate software engineer from Brazil</h3>
+<h3>A passionate software engineer (front-end) from Brazil</h3>
 
 <h1>🚀 Skills:</h1>
 <p><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
