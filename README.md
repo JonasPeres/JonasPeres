@@ -27,7 +27,7 @@
 
 <br>
 
-<h1>🏆 GitHub Trophies</h1>
+<h1>🏆 GitHub Trophies:</h1>
 <p><img src="https://github-profile-trophy.vercel.app/?username=JonasPeres&title=Commits&theme=dracula&column=-1" alt="JonasPeres" /></p>
 
 <h1>📊 GitHub Stats:</h1>
